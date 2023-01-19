@@ -5,6 +5,7 @@
 ## Download 
 from [App gallery](https://appgallery.huawei.com/#/app/C107602151)
 ## Privacy Policy
+![app gallery](https://user-images.githubusercontent.com/58667227/213477082-fc9d2069-73d9-4a8a-b678-e4de0b270928.png)
 
 KvRae built the beads leads app as a Free app. This SERVICE is provided by KvRae at no cost and is intended for use as is.
 
