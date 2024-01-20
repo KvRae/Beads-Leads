@@ -4,6 +4,8 @@
 
 ## Download 
 from [App gallery](https://appgallery.huawei.com/#/app/C107602151)
+
+
 from [itchio io](https://kvrae.itch.io/beads-leads)
 
 ## Privacy Policy
